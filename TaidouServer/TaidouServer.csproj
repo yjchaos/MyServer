@@ -16,7 +16,7 @@
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
-    <OutputPath>G:\Photon_Server\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\TaidouServer\bin\</OutputPath>
+    <OutputPath>D:\Program Files\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\TaidouServer\bin\</OutputPath>
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
@@ -31,19 +31,19 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="ExitGames.Logging.Log4Net">
-      <HintPath>G:\Photon_Server\Photon-OnPremise-Server-SDK_v4-0-29-11263\lib\ExitGames.Logging.Log4Net.dll</HintPath>
+      <HintPath>..\TaidouCommon\bin\ExitGames.Logging.Log4Net.dll</HintPath>
     </Reference>
     <Reference Include="ExitGamesLibs">
-      <HintPath>G:\Photon_Server\Photon-OnPremise-Server-SDK_v4-0-29-11263\lib\ExitGamesLibs.dll</HintPath>
+      <HintPath>..\TaidouCommon\bin\ExitGamesLibs.dll</HintPath>
     </Reference>
     <Reference Include="log4net">
-      <HintPath>G:\Photon_Server\Photon-OnPremise-Server-SDK_v4-0-29-11263\lib\log4net.dll</HintPath>
+      <HintPath>..\TaidouCommon\bin\log4net.dll</HintPath>
     </Reference>
     <Reference Include="Photon.SocketServer">
-      <HintPath>G:\Photon_Server\Photon-OnPremise-Server-SDK_v4-0-29-11263\lib\Photon.SocketServer.dll</HintPath>
+      <HintPath>..\TaidouCommon\bin\Photon.SocketServer.dll</HintPath>
     </Reference>
     <Reference Include="PhotonHostRuntimeInterfaces">
-      <HintPath>G:\Photon_Server\Photon-OnPremise-Server-SDK_v4-0-29-11263\lib\PhotonHostRuntimeInterfaces.dll</HintPath>
+      <HintPath>..\TaidouCommon\bin\PhotonHostRuntimeInterfaces.dll</HintPath>
       <EmbedInteropTypes>True</EmbedInteropTypes>
     </Reference>
     <Reference Include="System" />

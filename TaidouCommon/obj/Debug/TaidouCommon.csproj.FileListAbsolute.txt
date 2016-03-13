@@ -1,0 +1,5 @@
+F:\c#\projects\PhotonWorkspace\MyServer\TaidouCommon\bin\Debug\TaidouCommon.dll
+F:\c#\projects\PhotonWorkspace\MyServer\TaidouCommon\bin\Debug\TaidouCommon.pdb
+F:\c#\projects\PhotonWorkspace\MyServer\TaidouCommon\obj\Debug\TaidouCommon.csprojResolveAssemblyReference.cache
+F:\c#\projects\PhotonWorkspace\MyServer\TaidouCommon\obj\Debug\TaidouCommon.dll
+F:\c#\projects\PhotonWorkspace\MyServer\TaidouCommon\obj\Debug\TaidouCommon.pdb
