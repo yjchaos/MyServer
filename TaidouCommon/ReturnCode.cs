@@ -4,8 +4,11 @@ using System.Text;
 
 namespace TaidouCommon
 {
-    public enum OperationCode:byte
+    public enum ReturnCode : byte
     {
-        Login,
+        Success,
+        Error,
+        Fail,
+        Exception
     }
 }

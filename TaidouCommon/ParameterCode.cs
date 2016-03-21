@@ -4,8 +4,8 @@ using System.Text;
 
 namespace TaidouCommon
 {
-    public enum OperationCode:byte
+    public enum ParameterCode : byte
     {
-        Login,
+        UserInfo
     }
 }
