@@ -16,7 +16,7 @@
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
-    <OutputPath>G:\Photon_Server\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\TaidouServer\bin\</OutputPath>
+    <OutputPath>D:\Program Files\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\TaidouServer\bin\</OutputPath>
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
@@ -30,6 +30,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Reference Include="ExitGames.Logging.Log4Net, Version=1.0.4.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>G:\Photon_Server\Photon-OnPremise-Server-SDK_v4-0-29-11263\lib\ExitGames.Logging.Log4Net.dll</HintPath>
@@ -60,9 +61,22 @@
     <Reference Include="Photon.SocketServer, Version=4.0.28.11245, Culture=neutral, PublicKeyToken=48c2fa3b6988090e, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>G:\Photon_Server\Photon-OnPremise-Server-SDK_v4-0-29-11263\lib\Photon.SocketServer.dll</HintPath>
+=======
+    <Reference Include="ExitGames.Logging.Log4Net">
+      <HintPath>..\TaidouCommon\bin\ExitGames.Logging.Log4Net.dll</HintPath>
+    </Reference>
+    <Reference Include="ExitGamesLibs">
+      <HintPath>..\TaidouCommon\bin\ExitGamesLibs.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net">
+      <HintPath>..\TaidouCommon\bin\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="Photon.SocketServer">
+      <HintPath>..\TaidouCommon\bin\Photon.SocketServer.dll</HintPath>
+>>>>>>> origin/master
     </Reference>
     <Reference Include="PhotonHostRuntimeInterfaces">
-      <HintPath>G:\Photon_Server\Photon-OnPremise-Server-SDK_v4-0-29-11263\lib\PhotonHostRuntimeInterfaces.dll</HintPath>
+      <HintPath>..\TaidouCommon\bin\PhotonHostRuntimeInterfaces.dll</HintPath>
       <EmbedInteropTypes>True</EmbedInteropTypes>
     </Reference>
     <Reference Include="System" />

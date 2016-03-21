@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 E:\c#_project\PhotonWorkspace\TaidouServer\TaidouCommon\bin\Debug\TaidouCommon.dll
 E:\c#_project\PhotonWorkspace\TaidouServer\TaidouCommon\bin\Debug\TaidouCommon.pdb
 E:\c#_project\PhotonWorkspace\TaidouServer\TaidouCommon\obj\Debug\TaidouCommon.dll
 E:\c#_project\PhotonWorkspace\TaidouServer\TaidouCommon\obj\Debug\TaidouCommon.pdb
 G:\Photon_Server\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\TaidouServer\bin\TaidouCommon.dll
 G:\Photon_Server\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\TaidouServer\bin\TaidouCommon.pdb
+=======
+F:\c#\projects\PhotonWorkspace\MyServer\TaidouCommon\bin\Debug\TaidouCommon.dll
+F:\c#\projects\PhotonWorkspace\MyServer\TaidouCommon\bin\Debug\TaidouCommon.pdb
+F:\c#\projects\PhotonWorkspace\MyServer\TaidouCommon\obj\Debug\TaidouCommon.csprojResolveAssemblyReference.cache
+F:\c#\projects\PhotonWorkspace\MyServer\TaidouCommon\obj\Debug\TaidouCommon.dll
+F:\c#\projects\PhotonWorkspace\MyServer\TaidouCommon\obj\Debug\TaidouCommon.pdb
+>>>>>>> origin/master

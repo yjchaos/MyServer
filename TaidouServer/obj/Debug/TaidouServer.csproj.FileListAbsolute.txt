@@ -4,3 +4,9 @@ E:\c#_project\PhotonWorkspace\TaidouServer\TaidouServer\obj\Debug\TaidouServer.c
 E:\c#_project\PhotonWorkspace\TaidouServer\TaidouServer\obj\Debug\TaidouServer.dll
 E:\c#_project\PhotonWorkspace\TaidouServer\TaidouServer\obj\Debug\TaidouServer.pdb
 G:\Photon_Server\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\TaidouServer\bin\log4net.config
+D:\Program Files\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\TaidouServer\bin\log4net.config
+D:\Program Files\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\TaidouServer\bin\TaidouServer.dll
+D:\Program Files\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\TaidouServer\bin\TaidouServer.pdb
+F:\c#\projects\PhotonWorkspace\MyServer\TaidouServer\obj\Debug\TaidouServer.csprojResolveAssemblyReference.cache
+F:\c#\projects\PhotonWorkspace\MyServer\TaidouServer\obj\Debug\TaidouServer.dll
+F:\c#\projects\PhotonWorkspace\MyServer\TaidouServer\obj\Debug\TaidouServer.pdb
